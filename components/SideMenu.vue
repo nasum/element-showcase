@@ -21,6 +21,9 @@
     <el-menu-item index="navigation">
       <span>Navigation</span>
     </el-menu-item>
+    <el-menu-item index="other">
+      <span>Other</span>
+    </el-menu-item>
   </el-menu>
 </template>
 <script>
